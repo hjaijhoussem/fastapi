@@ -48,6 +48,7 @@ uvicorn app.main:app --reload
 6. **psycopg2-binary (2.9.7)**: PostgreSQL database adapter
 
 ## Project Structure
+```
 project/
 ├── app/
 │ ├── main.py
